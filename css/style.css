@@ -14,7 +14,7 @@ ul{
   align-items: center;
 }
 header{
-  background-color: yellow;
+  background-color: #ABEBC6 ;
   height: 80px;
   
 }
@@ -28,4 +28,7 @@ header{
 }
 .nav-type {
   list-style: none;
+}
+body{
+  background-image: url(/images/wall.png);
 }
