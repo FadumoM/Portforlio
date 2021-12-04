@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Poppins:ital,wght@1,300&display=swap');
 *{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 body {
+  background-color: white;
   font-family: sans-serif;
   font-size: 20px;
   
@@ -22,6 +24,7 @@ ul{
 }
 ul a{
   text-decoration: none;
+  font-family: poppins;
 }
 header{
   display:-webkit-flex;
@@ -55,4 +58,7 @@ header{
 }
 h2{
   font-size: 100px;
+  font-family: PT Serif;
+  font-size: 50px;
 }
+div .img
