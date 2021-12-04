@@ -2,19 +2,3 @@ img{
   height: 50px;
   margin: 0;
 }
-
-.container{
-  background-color: white;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 100px;
-  margin-left: 0%;
-  padding: 0px;
-}
-nav{
-  border:transparent;
-  height: 100px;
-  display: inline-flex;
-  
-}
