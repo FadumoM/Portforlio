@@ -4,10 +4,24 @@
   margin: 0;
 }
 img{
-  height: 50px;
+  height: 65px;
+  margin: 20px;
 }
 ul{
-  border: solid 20px;
+  border: transparent 20px;
   display: flex;
   justify-content: space-around;
+  align-items: center;
+}
+header{
+  background-color: yellow;
+  height: 80px;
+  
+}
+.logo{
+  cursor: pointer;
+}
+.nav-type li{
+  display: inline-block;
+  padding:0px 15px;
 }
